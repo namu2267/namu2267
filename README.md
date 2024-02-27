@@ -66,7 +66,7 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
     </td>
         <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="48" height="48" alt="React" />
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
@@ -76,13 +76,25 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
       </a>
       <br>Next.js
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#">
         <img src="https://www.gstatic.com/devrel-devsite/prod/v937c5f592532c0ad2ebbf299686fcceed4f5934a648172aa45e00618ae0982d7/firebase/images/touchicon-180.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.svgrepo.com/show/354262/react-router.svg" width="48" height="48" alt="React Router" />
+      </a>
+      <br>React Router
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
     </td>
       <td align="center"  width="96">
       <a href="#">
@@ -90,6 +102,18 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/600px-GitHub_Invertocat_Logo.svg.png" width="48" height="48" alt="Github" />
       </a>
       <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48" height="48" alt="SASS" />
+      </a>
+      <br>SASS
     </td>
     <td align="center" width="96">
       <a href="#" >
@@ -103,17 +127,17 @@ ${\color{#EF7B4D}\Large{🔥 \space Languages \space and \space Tools }}$
       </a>
       <br>Slack
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" width="48" height="48" alt="Notion" />
-      </a>
-      <br>Notion
-    </td>
      <td align="center" width="96">
       <a href="#">
         <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" width="48" height="48" alt="Figma" />
       </a>
       <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" width="48" height="48" alt="Notion" />
+      </a>
+      <br>Notion
     </td>
   </tr>
 </table>
